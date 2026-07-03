@@ -1,50 +1,117 @@
-Hi 👋, I'm Sairam Koduru
-Security Analyst | SOC Analyst | Threat Detection & Incident Investigation
+<h1 align="center">Hi 👋, I'm Sairam Koduru</h1>
 
-👨‍💻 About Me
+<h3 align="center">Security Analyst | SOC Analyst | Threat Detection & Incident Investigation</h3>
 
-🛡️ Security Analyst with 2+ years of SOC experience in alert triage, incident investigation, phishing analysis, endpoint security, authentication monitoring, and log correlation.
+<p align="center">
+  <a href="https://linkedin.com/in/kodurusairam">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/kodurusairam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:sairamkoduru15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-🔍 Experienced with Microsoft Sentinel, Splunk, Microsoft Defender for Endpoint, KQL, and SPL to investigate and validate security incidents.
+---
 
-🦠 Hands-on malware analysis experience using PEStudio, Procmon, Process Explorer, ANY.RUN, and VirusTotal to analyze malware families such as XWorm, AsyncRAT, and AgentTesla.
+## 👨‍💻 About Me
 
-⚙️ Built a Tines SOAR workflow integrating the URLScan.io API for automated URL investigation.
+🛡️ Security Analyst with **2+ years of SOC experience** in alert triage, incident investigation, phishing analysis, endpoint security, authentication monitoring, and log correlation.
 
-📚 Currently preparing for Microsoft SC-200 (Security Operations Analyst).
-🛠️ Security Tools & Technologies
+🔍 Experienced with **Microsoft Sentinel, Splunk, Microsoft Defender for Endpoint, KQL, and SPL** to investigate and validate security incidents.
 
-🚀 Featured Projects
+🦠 Hands-on malware analysis experience using **PEStudio, Procmon, Process Explorer, ANY.RUN, and VirusTotal** to analyze malware families such as **XWorm, AsyncRAT, and AgentTesla**.
 
-🛡️ Azure Sentinel SOC Lab
+⚙️ Built a **Tines SOAR workflow** integrating the URLScan.io API for automated URL investigation.
 
-🔬 Malware Analysis Lab
+📚 Currently preparing for **Microsoft SC-200 (Security Operations Analyst)**.
 
-⚙️ Tines URL Analysis Automation
+---
 
-🐍 YouTube Spam Detection using Machine Learning
-📚 Learning Platforms
+## 🛠️ Security Tools & Technologies
 
-Also Active On
+<p align="left">
 
-    KC7 Cyber Range
-    LetsDefend
-    Cybrary
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
-🎓 Certifications
+<img src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
-    ✅ KC7 Security Analyst I
-    ✅ Let’sDefend SOC Analyst Path
-    ✅ Let’sDefend Malware Analysis
-    ✅ ArcX CTI-101
-    ✅ Cisco Endpoint Security
-    ✅ TryHackMe SOC Level 1
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
-📖 Currently Learning
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 
-    Microsoft SC-200 (Security Operations Analyst)
+<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white"/>
 
-🏆 Achievements
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🛡️ **Azure Sentinel SOC Lab**
+
+🔬 **Malware Analysis Lab**
+
+⚙️ **Tines URL Analysis Automation**
+
+🐍 **YouTube Spam Detection using Machine Learning**
+
+---
+
+## 📚 Learning Platforms
+
+<p align="left">
+
+<a href="https://tryhackme.com/p/Kodurusairam">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+</a>
+
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+</p>
+
+**Also Active On**
+
+- KC7 Cyber Range
+- LetsDefend
+- Cybrary
+
+---
+
+## 🎓 Certifications
+
+- ✅ KC7 Security Analyst I
+- ✅ Let'sDefend SOC Analyst Path
+- ✅ Let'sDefend Malware Analysis
+- ✅ ArcX CTI-101
+- ✅ Cisco Endpoint Security
+- ✅ TryHackMe SOC Level 1
+
+### 📖 Currently Learning
+
+- Microsoft SC-200 (Security Operations Analyst)
+
+---
+
+## 🏆 Achievements
 
 🏅 Top 1% on TryHackMe (250+ rooms)
 
@@ -52,4 +119,10 @@ Also Active On
 
 🏅 Promoted from Security Associate to Security Analyst
 
+---
+
+<p align="center">
+
 ⭐ SOC Analyst • Blue Team • Malware Analysis • Threat Detection • Continuous Learning
+
+</p>
