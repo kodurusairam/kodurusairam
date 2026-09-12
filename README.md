@@ -24,7 +24,7 @@
 
 🦠 Hands-on malware analysis experience using **PEStudio, Procmon, Process Explorer, ANY.RUN, and VirusTotal** to analyze malware families such as **XWorm, AsyncRAT, and AgentTesla**.
 
-⚙️ Built a **Tines SOAR workflow** integrating the URLScan.io API for automated URL investigation.
+⚙️ Deployed a **Microsoft Sentinel SOC lab**, configuring data connectors and building KQL detections for brute-force auth, LOLBins, and C2-style beaconing.
 
 📚 Currently preparing for **Microsoft SC-200 (Security Operations Analyst)**.
 
@@ -67,6 +67,7 @@
 
 🐍 **YouTube Spam Detection using Machine Learning**
 
+🎣 **Phishing URL Analysis**
 ---
 
 ## 📚 Learning Platforms
@@ -80,6 +81,8 @@
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Microsoft_Learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
 </p>
 
@@ -98,6 +101,9 @@
 - ✅ ArcX CTI-101
 - ✅ Cisco Endpoint Security
 - ✅ TryHackMe SOC Level 1
+- ✅ AWS Threat Detection and Incident Response
+- ✅ Cisco Cyber Defense Analyst / SOC by Splunk
+- ✅ Cisco Network Defense
 
 ### 📖 Currently Learning
 
@@ -109,9 +115,11 @@
 
 🏅 Top 1% on TryHackMe (250+ rooms)
 
-🏅 Ranked among the Top 2,700 participants in KC7 Cyber Gaming
+🏅 Ranked among the Top 2,200 participants in KC7 Cyber Gaming
 
 🏅 Promoted from Security Associate to Security Analyst
+
+🏅 Ranked #20 of 1,637 in the HaxCamp 30-Days SOC Challenge
 
 ---
 
