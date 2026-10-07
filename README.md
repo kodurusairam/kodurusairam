@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sairam Koduru</h1>
 
-<h3 align="center">SOC Security Analyst | Threat Detection & Incident Investigation | Microsoft SC-200 Certified</h3>
+<h3 align="center">Security Analyst | SOC • Threat Detection • Incident Response | SC-200 Certified</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/kodurusairam">
@@ -122,7 +122,7 @@
 ## 📫 Let's Connect
 
 Open to **SOC Analyst / Security Analyst (L1–L2)** roles, immediate joiner.
-📧 [sairamkoduru15@gmail.com](mailto:sairamkoduru15@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/kodurusairam)
+📧 [sairamkoduru15@gmail.com](mailto:sairamkoduru15@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/koduru-sai-ram-20s/)
 
 ---
 
